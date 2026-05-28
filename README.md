@@ -1,5 +1,4 @@
 # Python-Foundations
-# Python Foundations
 
 A structured repository focused on developing strong Python engineering fundamentals through implementation-driven practice and real-world software development workflows.
 
